@@ -1,0 +1,16 @@
+body {
+  background-image: url('/img/waterfalls-river.png');
+  background-size: 1880px 939px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.459);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ecf4e9;
+  padding: 20px;
+  margin: 10px 100px;
+  border-radius: 5px;
+}
