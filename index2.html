@@ -32,31 +32,15 @@
         </div>
         <div class="label-input">
           <label for="rooms">Rooms</label>
-          <select name="rooms" id="rooms" required>
-            <option value=""disabled selected hidden>Select number of rooms</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
+          <input type="number" name="rooms" id="rooms" min="1" max="2" required>
         </div>
         <div class="label-input">
           <label for="adults">Adults</label>
-          <select name="adults" id="adults" required>
-            <option value=""disabled selected hidden>Select number of adults</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
+          <input type="number" name="adults" id="adults" min="1" max="4" required>
         </div>
         <div class="label-input">
           <label for="nights">Nights</label>
-          <select name="nights" id="nights" required>
-            <option value=""disabled selected hidden>Select number of nights</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-            <option value="5">5</option>
-            <option value="6">6</option>
-            <option value="7">7</option>
+          <input type="number" name="nights" id="nights" min="1" max="7" required>
         </div>
       </form>
       <div class="btn-container">
