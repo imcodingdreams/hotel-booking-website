@@ -2,6 +2,7 @@
 #
 ### DESCRIPTION
 A hotel booking website using HTML, HTML forms and CSS.
+
 Click [here](https://imcodingdreams.github.io/hotel-booking-website/) to see it live!
 
 ![image](/img/hotel-booking-website.png)
