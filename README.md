@@ -4,7 +4,7 @@
 A hotel booking website using HTML, HTML forms and CSS.
 Click [here](https://imcodingdreams.github.io/hotel-booking-website/) to see it live!
 
-![image](https://user-images.githubusercontent.com/106886575/182986118-80a97616-3e72-4e82-82e9-161a72db0a6c.png)
+![image](/img/hotel-booking-website.png)
 
 ### SUMMARY
 Is the first time for me using HTML forms. In this project, I combined HTML, HTML forms and CSS, to create a hotel booking website.
